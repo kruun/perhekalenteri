@@ -35,6 +35,11 @@
   //   image = URL-osoite taustakuvan sijaintiin, taustakuvat sijaitsevat 
   //           backgrounds-kansiossa.
   $bgimages = array(
+    "meri" => array(
+      "name" => "Aurinko",
+      "color" => "#fff",
+      "image" => "backgrounds/aurinko.jpg"
+    ),
     "dyynit" => array(
       "name"  => "Dyynit",
       "color" => "#d7ab7f",
